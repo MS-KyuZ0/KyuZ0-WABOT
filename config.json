@@ -1,8 +1,8 @@
 {
     "iTechApi": "A46cZH-iBjv3i-JR36B5-Ah3U7u-iI4snA",
     "prefix": "$",
-    "keepSave": "YOUR APIKEY", ## (http://keepsaveit.com/)
-    "mhankBB": "YOUR APIKEY", ## (http://mhankbarbars.herokuapp.com/)
-    "vhTear": "YOUR APIKEY", ## (https://vhtear.com/login)
+    "keepSave": "YOUR APIKEY",
+    "mhankBB": "YOUR APIKEY",
+    "vhTear": "YOUR APIKEY",
     "VIP": []
 }
